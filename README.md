@@ -62,5 +62,3 @@ Si solo encuentras un archivo `.exe`, significa que el `.zip` contiene un juego 
 | **Faltan paquetes** | Abre "Package Manager" (`Window > Package Manager`) y reinstala los paquetes necesarios. |
 
 ---
-
-🚀 ¡Listo! Ahora puedes trabajar en tu proyecto de Unity sin problemas. 🎮
