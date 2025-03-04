@@ -1,4 +1,7 @@
-# Abrir un Proyecto de Unity desde un Archivo .zip
+# Link del juego: 
+https://dany25-09.itch.io/cyber-guardians
+
+# Abrir un Proyecto de Unity desde un Archivo .zip o .rar
 
 Este documento describe los pasos necesarios para extraer y ejecutar un proyecto de Unity desde un archivo `.zip` usando Unity Hub.
 
